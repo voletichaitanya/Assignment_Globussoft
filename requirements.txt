@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+opencv-python
+numpy
+pandas
+requests
+beautifulsoup4
+lxml
+python-multipart
